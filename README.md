@@ -2,7 +2,7 @@
 
 <!-- Centered Logo -->
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" width="120" alt="Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFv-R9W5ujDd5y0WZhQYxMo041ZyZiFgcsHA&s" width="120" alt="Logo" />
 </p>
 
 <!-- Stylish Intro -->
