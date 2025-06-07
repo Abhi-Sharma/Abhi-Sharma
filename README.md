@@ -1,81 +1,67 @@
-<!-- GitHub README Template -->
+<!-- Attractive GitHub README -->
 
-<!-- Header Logo -->
+<!-- Centered Logo -->
 <p align="center">
   <img src="https://your-logo-url.com/logo.png" width="120" alt="Logo" />
 </p>
 
-<h1 align="center">Hi, I'm Abhi Sharma 👋</h1>
+<!-- Stylish Intro -->
+<h1 align="center">Hi 👋, I'm Abhi Sharma</h1>
+<h3 align="center">CSE Student | Web Developer | Lifelong Learner</h3>
 
-<p align="center">
-  Passionate CSE Undergrad | Web Developer | Tech Enthusiast
-</p>
-
-<!-- Social Links -->
+<!-- Social Media Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:yourmail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🔭 I’m currently working on: **Smart Campus Navigator**
-- 🌱 Learning: Advanced DSA, Node.js, Web3
-- 💼 Open to: Freelance Web Projects & Internship Roles
-- 📫 How to reach me: [yourmail@example.com](mailto:yourmail@example.com)
-
----
-
-### 🛠️ Skills
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 🎓 CSE Undergrad at MSRIT | 2027 Batch  
+- 💻 I love building clean and interactive web apps  
+- 🚴 Early riser (still trying 😅), cyclist & tech explorer  
+- 🌱 Currently learning Node.js & building side projects  
+- 💬 Ask me about Web Dev, C++, or College Hacks
 
 ---
 
-### 📌 Featured Projects
-
-- 🔗 [Smart Campus Navigator](https://github.com/yourusername/smart-campus-navigator) – Real-time route guide for students using DSA
-- 🔗 [Attendance App](https://github.com/yourusername/attendance-app) – Integrated college attendance tracker with login portal
-- 🔗 [Mine Game Website](https://github.com/yourusername/mine-game) – Stake.com-like betting game in JavaScript
-
----
-
-### 📊 GitHub Stats
+### ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 📈 GitHub Stats
 
-Got an idea to collaborate or just want to say hi? Feel free to drop a message.  
-**"Code with passion, learn with curiosity."**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub streak" />
+</p>
 
 ---
 
-> ⚡ _Tip: Replace all `yourusername`, `yourmail@example.com`, and logo URLs with your actual data._
+### 🌟 Motto
 
----
-
-Let me know if you'd like a version with a dark theme, animated GIFs, or collapsible sections!
+> “Consistency over perfection. Progress over speed.”
