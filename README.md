@@ -33,7 +33,7 @@
 - 💻 I love building clean and interactive web apps  
 - 🚴 Early riser (still trying 😅), cyclist & tech explorer  
 - 🌱 Currently learning Node.js & building side projects  
-- 💬 Ask me about Web Dev, C++, or College Hacks
+- 💬 Ask me about Web Dev, C++, or College Hacks  
 
 ---
 
@@ -62,6 +62,14 @@
 
 ---
 
-### 🌟 Motto
+### 🔥 LeetCode Stats  
 
-> “Consistency over perfection. Progress over speed.”
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=tokyonight&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🌟 Motto  
+
+> “Consistency over perfection. Progress over speed.”  
