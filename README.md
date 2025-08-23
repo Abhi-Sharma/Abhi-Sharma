@@ -65,8 +65,9 @@
 ### 🔥 LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcode.com/u/Abhi_Sharm_07/theme=tokyonight&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Abhi_Sharm_07?theme=tokyonight&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
+
 
 ---
 
