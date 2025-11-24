@@ -1,84 +1,63 @@
-<!-- Premium GitHub Profile README -->
+<!-- Modern Cyber-UI GitHub Profile README -->
 
-<!-- Centered Logo -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFv-R9W5ujDd5y0WZhQYxMo041ZyZiFgcsHA&s" width="120" alt="Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFv-R9W5ujDd5y0WZhQYxMo041ZyZiFgcsHA&s" width="115" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhi Sharma</h1>
-<h3 align="center">CSE Undergrad • Web Developer • Problem Solver</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4dd0e1;">Abhi</span> <span style="color:#ffb74d;">Sharma</span>
+</h1>
 
-<!-- Social Media -->
+<h3 align="center">Developer • CSE Undergrad • Problem Solver</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhisharma290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/AbhiSha14758130" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/abhi_sharma_7205/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:abhisharma.rediffmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/abhisharma290/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://x.com/AbhiSha14758130"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://www.instagram.com/abhi_sharma_7205/"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="mailto:abhisharma.rediffmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
 
-## 🧠 About Me
+<p align="center">
+  CSE Undergrad at MSRIT | 2027 Batch  
+  <br/>
+  Building clean and interactive web experiences while solving problems one commit at a time.
+</p>
 
-- 🎓 **CSE Undergraduate @ MSRIT (Batch 2027)**
-- 💻 Passionate about **frontend development** and building clean, responsive UIs  
-- 🚀 Currently improving skills in **Node.js & full-stack development**
-- 🧩 Love solving problems in **C++** and exploring **system design basics**
-- 🌱 Always learning, always shipping projects  
-- 🗣️ Open to collaborations, internships & cool tech discussions  
+<p align="center">
+  <a href="https://github.com/Abhi-Sharma?tab=repositories">
+    <img src="https://img.shields.io/badge/-Explore%20My%20Work-00bcd4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,python,mysql,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,python,mysql,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi-Sharma&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-Sharma&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Abhi-Sharma&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 LeetCode Progress
+## 🔥 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhi_Sharm_07?theme=tokyonight&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Abhi_Sharm_07?theme=tokyonight&ext=contest" />
 </p>
 
 ---
 
-## 🚀 Projects (Highlighted)
-
-Here are some projects I’ve built & improved recently:
-
-- 🔢 **Simple Calculator** – Clean UI, responsive layout  
-- 🎮 **Tic Tac Toe Game** – Win detection, replay flow, local gameplay  
-- 💱 **Currency Converter** – API-based real-time exchange rates  
-- 🏋️‍♂️ **Gym Management System** – Member logs, authentication & UI components  
-- 🎯 More coming soon…  
-
----
-
-## 🌟 Motto  
-
-> **“Consistency over perfection. Progress over speed.”**
-
----
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
+<p align="center">
+  <i>"Consistency over perfection. Progress over speed."</i>
+</p>
